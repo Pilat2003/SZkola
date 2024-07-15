@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSetter", "PCSetter\PCSetter.csproj", "{D1238590-145C-49CD-BA90-B9755C5FFB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1238590-145C-49CD-BA90-B9755C5FFB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1238590-145C-49CD-BA90-B9755C5FFB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1238590-145C-49CD-BA90-B9755C5FFB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1238590-145C-49CD-BA90-B9755C5FFB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FBE3755-1B00-45CB-984B-D3F6462A5445}
+	EndGlobalSection
+EndGlobal
